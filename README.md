@@ -11,7 +11,8 @@ learning models and applications.
 
 ## Presentations
 
-Jan 2020: RStudioConf, San Francisco. [slides](MLOPS%20and%20R%20-%20rstudioconf%20-%2020200130.pptx)
+MLOPS for R with Azure Machine Learning: [slides (PPTx)](MLOPS%20and%20R%20-%20rstudioconf%20-%2020200130.pptx) | [slides (PDF)](MLOPS%20and%20R%20-%20rstudioconf%20-%2020200130.pdf).  
+Jan 2020: RStudioConf, San Francisco.  
 
 ## Resources
 
@@ -19,19 +20,19 @@ Azure Machine Learning service: [Documentation](https://docs.microsoft.com/azure
 
 Azure DevOps: [Documentation](https://docs.microsoft.com/azure/devops/user-guide/what-is-azure-devops?view=azure-devops&WT.mc_id=mlopsr-github-davidsmi)
 
-**azuremlsdk** R package: [CRAN](https://cran.r-project.org/package=azuremlsdk), [Github Repository](https://github.com/azure/azureml-sdk-for-r), [Documentation](https://azure.github.io/azureml-sdk-for-r/reference/index.html)
+**azuremlsdk** R package: [CRAN](https://cran.r-project.org/package=azuremlsdk), [GitHub Repository](https://github.com/azure/azureml-sdk-for-r), [Documentation](https://azure.github.io/azureml-sdk-for-r/reference/index.html)
 
 Free azure credits: [register here](http://azure.com/free?view=azure-devops&WT.mc_id=mlopsr-github-davidsmi). (Credit card required, but won't be charged until you remove limits to allow it.)
+
+## Code from presentation
+
+Accidents model, trained and deployed with Azure ML, and shiny app: [GitHub](https://github.com/revodavid/azureml-sdk-for-r/tree/master/vignettes/experiments-with-R)  
+(will soon be included in [vignettes](https://github.com/Azure/azureml-sdk-for-r/tree/master/vignettes/train-and-deploy-to-aci) of azuremlsdk package).
 
 ## Related Presentations
 
 Machine learning operations: Applying DevOps to data science  
-AIML50: [Slides, code and recording on Github](https://aka.ms/AIML50repo)
-
-## Code from presentation
-
-Accidents model, trained and deployed with Azure ML, and shiny app: [Github](https://github.com/revodavid/azureml-sdk-for-r/tree/master/vignettes/experiments-with-R)  
-(will soon be included in [vignettes](https://github.com/Azure/azureml-sdk-for-r/tree/master/vignettes/train-and-deploy-to-aci) of azuremlsdk package).
+AIML50: [Slides, code and recording on GitHub](https://aka.ms/AIML50repo)
 
 # Feedback
 
