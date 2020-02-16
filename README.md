@@ -11,8 +11,9 @@ learning models and applications.
 
 ## Presentations
 
-MLOPS for R with Azure Machine Learning: [slides (PPTx)](MLOPS%20and%20R%20-%20rstudioconf%20-%2020200130.pptx) | [slides (PDF)](MLOPS%20and%20R%20-%20rstudioconf%20-%2020200130.pdf).  
 Jan 2020: RStudioConf, San Francisco.  
+MLOPS for R with Azure Machine Learning: [slides (PPTx)](MLOPS%20and%20R%20-%20rstudioconf%20-%2020200130.pptx) | [slides (PDF)](MLOPS%20and%20R%20-%20rstudioconf%20-%2020200130.pdf) | [Video Recording](https://resources.rstudio.com/rstudio-conf-2020/mlops-for-r-with-azure-machine-learning-david-smith)  
+  
 
 ## Resources
 
