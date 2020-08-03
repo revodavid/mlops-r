@@ -31,8 +31,8 @@ Free azure credits: [register here](http://azure.com/free?view=azure-devops&WT.m
 
 ## Code from presentation
 
-Accidents model, trained and deployed with Azure ML, and shiny app: [GitHub](https://github.com/revodavid/azureml-sdk-for-r/tree/master/vignettes/experiments-with-R)  
-(will soon be included in [vignettes](https://github.com/Azure/azureml-sdk-for-r/tree/master/vignettes/train-and-deploy-to-aci) of azuremlsdk package).
+Accidents model, trained and deployed with Azure ML, and shiny app: [GitHub](https://github.com/Azure/azureml-sdk-for-r/blob/master/vignettes/experiments-deep-dive.Rmd)  
+(included in vignettes of [azuremlsdk package](https://github.com/Azure/azureml-sdk-for-r)).
 
 ## Related Presentations
 
