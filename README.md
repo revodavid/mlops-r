@@ -17,17 +17,17 @@ MLOPS for R with Azure Machine Learning: [slides (PPTx)](MLOPS%20and%20R%20-%20r
 
 ## Resources
 
-Azure Machine Learning service: [Documentation](https://docs.microsoft.com/azure/machine-learning/overview-what-is-azure-ml?WT.mc_id=mlopsr-github-davidsmi)
+Azure Machine Learning service: [Documentation](https://docs.microsoft.com/azure/machine-learning/overview-what-is-azure-ml?WT.mc_id=opensource-0000-davidsmi)
 
-Azure DevOps: [Documentation](https://docs.microsoft.com/azure/devops/user-guide/what-is-azure-devops?view=azure-devops&WT.mc_id=mlopsr-github-davidsmi)
+Azure DevOps: [Documentation](https://docs.microsoft.com/azure/devops/user-guide/what-is-azure-devops?view=azure-devops&WT.mc_id=opensource-0000-davidsmi)
 
 **azuremlsdk** R package: [CRAN](https://cran.r-project.org/package=azuremlsdk), [GitHub Repository](https://github.com/azure/azureml-sdk-for-r), [Documentation](https://azure.github.io/azureml-sdk-for-r/reference/index.html). New to the package? Start with these vignettes:
 
-* [Tutorial: Create a logistic regression model in R with Azure Machine Learning](https://docs.microsoft.com/azure/machine-learning/tutorial-1st-r-experiment?WT.mc_id=mlopsr-github-davidsmi)
+* [Tutorial: Create a logistic regression model in R with Azure Machine Learning](https://docs.microsoft.com/azure/machine-learning/tutorial-1st-r-experiment?WT.mc_id=opensource-0000-davidsmi)
 
 * [A Deeper Dive into Experiments with R](azuremlsdk-vignettes/experiments-with-R.pdf) (this is also provided as a vignette in the `azuremlsdk` package)
 
-Free azure credits: [register here](http://azure.com/free?view=azure-devops&WT.mc_id=mlopsr-github-davidsmi). (Credit card required, but won't be charged until you remove limits to allow it.)
+Free azure credits: [register here](https://azure.com/free?view=azure-devops&WT.mc_id=opensource-0000-davidsmi). (Credit card required, but won't be charged until you remove limits to allow it.)
 
 ## Code from presentation
 
